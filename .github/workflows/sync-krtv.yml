@@ -2,7 +2,7 @@ name: Sync KRTV Korean channels
 
 on:
   schedule:
-    - cron: '17 */2 * * *'
+    - cron: '17 * * * *'
   workflow_dispatch:
   push:
     branches: [master]
