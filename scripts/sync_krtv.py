@@ -29,6 +29,7 @@ def extract(text):
         urls = [line for line in block[1:] if line and not line.startswith("#")]
         if len(urls) != 1 or not re.match(r"^[A-Za-z][A-Za-z0-9+.-]*://\S+$", urls[0]):
             raise ValueError("Selected channel has a missing or invalid stream URL")
+        block[0] = re.sub(r'\bgroup-title\s*=\s*"[^"]*"', 'group-title="한국생방송"', block[0])
         selected.append("\n".join(block).rstrip())
 
     for line in lines[1:]:

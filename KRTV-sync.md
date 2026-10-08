@@ -2,6 +2,7 @@
 
 - 来源：https://github.com/krtv322/kortv/blob/main/symftv.M3U
 - 精确筛选分类：`🐉한국방송🦆`
+- 输出分类统一改写为：`한국생방송`。
 - 输出：仓库根目录 `KRTV.m3u`，保留原频道顺序、名称、图标及播放选项。
 - 时间：北京时间每天 00:17、02:17、04:17、06:17、08:17、10:17、12:17、14:17、16:17、18:17、20:17、22:17。GitHub 调度可能延迟。
 - 手动执行：Actions → Sync KRTV Korean channels → Run workflow。
