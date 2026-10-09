@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Extract one exact M3U group; never overwrite the last good file on failure."""
+"""Extract exact M3U groups; never overwrite the last good file on failure."""
 import os
 from pathlib import Path
 import re
@@ -8,7 +8,7 @@ import time
 from urllib.request import Request, urlopen
 
 SOURCE = "https://raw.githubusercontent.com/krtv322/kortv/main/symftv.M3U"
-GROUP = "🐉한국방송🦆"
+GROUPS = ("🐉한국방송🦆", "🐉한국방송 예비용🦆")
 DESTINATION = Path(__file__).resolve().parents[1] / "KRTV.m3u"
 MAX_BYTES = 20 * 1024 * 1024
 
@@ -24,7 +24,7 @@ def extract(text):
         if not block:
             return
         match = re.search(r'\bgroup-title\s*=\s*"([^"]*)"', block[0])
-        if not match or match.group(1) != GROUP:
+        if not match or match.group(1) not in GROUPS:
             return
         urls = [line for line in block[1:] if line and not line.startswith("#")]
         if len(urls) != 1 or not re.match(r"^[A-Za-z][A-Za-z0-9+.-]*://\S+$", urls[0]):
@@ -41,7 +41,7 @@ def extract(text):
             block.append(line)
     finish()
     if not selected:
-        raise ValueError(f"No channels found in exact group {GROUP!r}")
+        raise ValueError(f"No channels found in selected groups {GROUPS!r}")
     return lines[0] + "\n" + "\n".join(selected) + "\n", len(selected)
 
 
@@ -64,7 +64,7 @@ def main():
     result, count = extract(download())
     data = result.encode("utf-8")
     if DESTINATION.exists() and DESTINATION.read_bytes() == data:
-        print(f"Unchanged: {count} channels in {GROUP}")
+        print(f"Unchanged: {count} channels in {GROUPS}")
         return
     temporary = None
     try:
