@@ -75,7 +75,7 @@ def main():
     finally:
         if temporary and os.path.exists(temporary):
             os.unlink(temporary)
-    print(f"Updated: {count} channels in {GROUP}")
+    print(f"Updated: {count} channels in {GROUPS}")
 
 
 if __name__ == "__main__":
