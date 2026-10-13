@@ -1,122 +1,122 @@
-#EXTM3U
-#EXTINF:-1 group-title="생방송" ,KBS1
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz"
+#EXTINF:-1 group-title="생방송" tvg-id="KBS1.kr" tvg-name="KBS1",KBS1
 http://koreatv.dothome.co.kr/kbs1.php
 #https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
-#EXTINF:-1 group-title="생방송" ,KBS 2
+#EXTINF:-1 group-title="생방송" tvg-id="KBS2.kr" tvg-name="KBS2",KBS2
 #http://1.214.67.38/vod/50201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 http://koreatv.dothome.co.kr/kbs2.php
-#EXTINF:-1 group-title="생방송", KBS Drama
+#EXTINF:-1 group-title="생방송" tvg-id="KBS.Drama.kr" tvg-name="KBS Drama",KBS Drama
 http://koreatv.dothome.co.kr/kbsdrama.php
-#EXTINF:-1 group-title="생방송" , SBS
+#EXTINF:-1 group-title="생방송" tvg-id="SBS.kr" tvg-name="SBS",SBS
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_2_76142D8F.m3u8
 #http://123.140.197.22/stream/1/play.m3u8
 #https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #http://1.214.67.38/vod/50401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" ,MBC 
+#EXTINF:-1 group-title="생방송" tvg-id="MBC.kr" tvg-name="MBC",MBC
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="생방송" ,MBN 
+#EXTINF:-1 group-title="생방송" tvg-id="MBN.kr" tvg-name="MBN",MBN
 http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" ,TV Chosun
+#EXTINF:-1 group-title="생방송" tvg-id="TV조선.kr" tvg-name="TV조선",TV조선
 http://1.214.67.38/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",TV Chosun 2 
+#EXTINF:-1 group-title="생방송" tvg-id="TVCHOSUN2.kr" tvg-name="TVCHOSUN2",TVCHOSUN2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="생방송" ,연합뉴스
+#EXTINF:-1 group-title="생방송" tvg-id="연합뉴스TV.kr" tvg-name="연합뉴스TV",연합뉴스TV
 http://1.214.67.38/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" ,YTN
+#EXTINF:-1 group-title="생방송" tvg-id="YTN.kr" tvg-name="YTN",YTN
 http://1.214.67.38/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" ,채널A
+#EXTINF:-1 group-title="생방송" tvg-id="채널A.kr" tvg-name="채널A",채널A
 http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" ,JTBC 
+#EXTINF:-1 group-title="생방송" tvg-id="JTBC.kr" tvg-name="JTBC",JTBC
 https://noh-slb-samsung-fastcdn.uplus.co.kr/jtbc.stream/noll_index-v1-a1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&castis.cid=jtbc.strea
 #http://1.214.67.38/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",JTBC2
+#EXTINF:-1 group-title="생방송" tvg-id="JTBC2.kr" tvg-name="JTBC2",JTBC2
 http://1.214.67.38/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",JTBC4
+#EXTINF:-1 group-title="생방송" tvg-id="JTBC4.kr" tvg-name="JTBC4",JTBC4
 http://1.214.67.38/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",JTBC
+#EXTINF:-1 group-title="생방송" tvg-id="JTBC.kr" tvg-name="JTBC",JTBC
 http://1.214.67.206/vod/74701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",JTBC2
+#EXTINF:-1 group-title="생방송" tvg-id="JTBC2.kr" tvg-name="JTBC2",JTBC2
 http://1.214.67.206/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",JTBC3
 http://1.214.67.103/vod/79501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1 group-title="생방송",JTBC4
+#EXTINF:-1 group-title="생방송" tvg-id="JTBC4.kr" tvg-name="JTBC4",JTBC4
 http://1.214.67.206/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",TVN
+#EXTINF:-1 group-title="생방송" tvg-id="tvN.kr" tvg-name="tvN",tvN
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLnYEhrB8COiArn1mmj7ckNV5&secret=a72ec41ef89359f0cd94837d75fa20f9&time=1772755122
 #https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLnYEhrB8COiArn1mmj7ckNV5&secret=a72ec41ef89359f0cd94837d75fa20f9&time=1772755122
 #https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt048&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=97ef7359-cc9f9a9d-e4b24aa2-1f3d7cf6&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #https://live-114.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O614Z22pnhG5974Hey06SlgSHeT24eUPwD&secret=3d4c2a8304d1673ecd3114c5c6f48568&time=1742500356
 #https://jmp2.uk/stvp-KRBC3200031KO
-#EXTINF:-1 group-title="생방송",중화TV
+#EXTINF:-1 group-title="생방송" tvg-id="중화TV.kr" tvg-name="중화TV",중화TV
 https://tving-live-o2-ktcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3e6c4931eb80e79cd7979dc1/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgyMDM4MjMzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=ESpF7Xqb0lYW6mF0Y53TVxMFw31chLu5g4E2T5ikfvcltf1lxsEFfNvDqOj8FAS5CdSmXUxSBVcTLzUrxYrLNu~DZfrdq5bPLqv-QRplIucKLkWl4kIRtKzakmgA6CoW4DCVnZSODrviIryDq3R4jRr-gOAn-6NtV-opNmc1kPGPAjpO0UHXECOMBf7TnFtKRXnRl6CwUJhpKXNbuKa8VRQO-Z9vP8ATlJSOUr7cKw7Oz5ug6N0p3e6b18obZ0Q~PhENFt2FKQJyk1xYmOQpEup6zUfR9Fqls01VkEgWD46AVQMInhtljagPiJItubKwFfHgWKq30qP0Cl1PQQB5Fw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #https://tving-live-o2-xcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3e6c4931eb80e79cd7979dc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODE5MTAwNTYsInBhdGgiOiIvbzIifQ.R5edYO9VhZACXw8p0yOaJ3RkbuIDEBGW1NlPvqj7uEI
-#EXTINF:-1 group-title="생방송" ,KBSStory
+#EXTINF:-1 group-title="생방송" tvg-id="KBS.Story.kr" tvg-name="KBS Story",KBS Story
 http://koreatv.dothome.co.kr/kbsstory.php
-#EXTINF:-1 group-title="생방송" ,KBSLife
+#EXTINF:-1 group-title="생방송" tvg-id="KBS.LIFE.kr" tvg-name="KBS LIFE",KBS LIFE
 http://koreatv.dothome.co.kr/kbslife.php
-#EXTINF:-1 group-title="생방송" ,KBSDrama
+#EXTINF:-1 group-title="생방송" tvg-id="KBS.Drama.kr" tvg-name="KBS Drama",KBS Drama
 http://koreatv.dothome.co.kr/kbsdrama.php
-#EXTINF:-1 group-title="생방송" ,KBSJoy
+#EXTINF:-1 group-title="생방송" tvg-id="KBS.Joy.kr" tvg-name="KBS Joy",KBS Joy
 http://koreatv.dothome.co.kr/kbsjoy.php
-#EXTINF:-1 group-title="생방송" ,sbsplus
+#EXTINF:-1 group-title="생방송" tvg-id="SBS.Plus.kr" tvg-name="SBS Plus",SBS Plus
 http://koreatv.dothome.co.kr/sbsplus.php
-#EXTINF:-1 group-title="생방송" ,sbsfune
+#EXTINF:-1 group-title="생방송" tvg-id="SBS.funE.kr" tvg-name="SBS funE",SBS funE
 http://koreatv.dothome.co.kr/sbsfune.php
-#EXTINF:-1 group-title="생방송" ,sbsbiz
+#EXTINF:-1 group-title="생방송" tvg-id="SBS.Biz.kr" tvg-name="SBS Biz",SBS Biz
 http://koreatv.dothome.co.kr/sbsbiz.php
-#EXTINF:-1 group-title="생방송" ,mbcnet
+#EXTINF:-1 group-title="생방송" tvg-id="MBC.NET.kr" tvg-name="MBC NET",MBC NET
 http://koreatv.dothome.co.kr/mbcnet.php
-#EXTINF:-1 group-title="생방송", tvN
+#EXTINF:-1 group-title="생방송" tvg-id="tvN.kr" tvg-name="tvN",tvN
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLnYEhrB8COiArn1mmj7ckNV5&secret=a72ec41ef89359f0cd94837d75fa20f9&time=1772755122
-#EXTINF:-1 group-title="생방송" ,KBS1
+#EXTINF:-1 group-title="생방송" tvg-id="KBS1.kr" tvg-name="KBS1",KBS1
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=EZ5881Rv73XGA0AECIYF9UX34lt3YBvq6RLJ1voI&secret=e7d5668457a260527ef38656f6b0082e&time=1765891871
-#EXTINF:-1 group-title="생방송" ,KBS2
+#EXTINF:-1 group-title="생방송" tvg-id="KBS2.kr" tvg-name="KBS2",KBS2
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs2_540&sid=AyMBt8STQi7J8FnSd0PeQSXX6kQBHrmnVJljjl8w&secret=b232cc97122ea9f507475b72065f7562&time=1765891904
-#EXTINF:-1 group-title="생방송", MBC
+#EXTINF:-1 group-title="생방송" tvg-id="MBC.kr" tvg-name="MBC",MBC
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbc_540&sid=IpaGWtS1yBSO7JUbq1qO5wzVEOxA49k1jXoRVIbD&secret=a359917fe5cd684f8a1b9e21443c4710&time=1765891937
-#EXTINF:-1 group-title="생방송", SBS
+#EXTINF:-1 group-title="생방송" tvg-id="SBS.kr" tvg-name="SBS",SBS
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=sbs_540&sid=nfOYdJXzncD8lRHzh71jjNMMPF1wpIzAUSc7gVY6&secret=8a4fe706f9cd8c91ecf75cf53f77f08f&time=1765891975
-#EXTINF:-1 group-title="생방송", EBS 
+#EXTINF:-1 group-title="생방송" tvg-id="EBS.kr" tvg-name="EBS",EBS
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ebs_1_540&sid=vHyUZnRhksnBekpuSNsyewg7y2zjV8qPW9aLSrke&secret=8db7c58ae15873a118931b3c91cead09&time=1765892008
 #EXTINF:-1 group-title="생방송", EBS2
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ebs_2_540&sid=jvgMIYZC8L1lM4iQeyaEBEmSmsp4Da1x24JbbVwh&secret=6d24fd40d06020266561930e77cea1f3&time=1765892041
-#EXTINF:-1 group-title="생방송" ,JTBC 
+#EXTINF:-1 group-title="생방송" tvg-id="JTBC.kr" tvg-name="JTBC",JTBC
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=kbtxyuPVF37QVO3zGKMNyQSQo063cYeik0Vr0GoS&secret=133ec1aaf7cf7cf8f6aa77e714da7059&time=1765892075
-#EXTINF:-1 group-title="생방송" ,OCN
+#EXTINF:-1 group-title="생방송" tvg-id="OCN.kr" tvg-name="OCN",OCN
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=BSayDAwe3oRk1TIWnlZxSFNn2ij2D50BdXO0q6AS&secret=aa35da20dba3436b85fd34d6b4d8f910&time=1772754670
 #https://live-114.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=PrqoQCvTSMHCbYJxID74xAc3NKuScy5PRuM1xirg&secret=562fb04d97cad7f46e7b55f63214df25&time=1747425397
-#EXTINF:-1 group-title="생방송" ,OCN Movies
+#EXTINF:-1 group-title="생방송" tvg-id="OCN.Movies.kr" tvg-name="OCN Movies",OCN Movies
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
-#EXTINF:-1 group-title="생방송" ,OCN Movies2
+#EXTINF:-1 group-title="생방송" tvg-id="OCN.Movies2.kr" tvg-name="OCN Movies2",OCN Movies2
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=Aq9QkNY4Pe5i5qqbZ80wYIPOMlJlncdshNl59Ykd&secret=ace12c806a4f2f6a255b1c93813fe49f&time=1765892291
 #EXTINF:-1 group-title="생방송" ,CJ ENM Movie
 https://jmp2.uk/stvp-KRBC32000191N
 #EXTINF:-1 group-title="생방송", PLAYY
 https://jmp2.uk/stvp-KR12000017G
-#EXTINF:-1 group-title="생방송", YTN
+#EXTINF:-1 group-title="생방송" tvg-id="YTN.kr" tvg-name="YTN",YTN
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt048&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=97ef7359-cc9f9a9d-e4b24aa2-1f3d7cf6&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #https://live-114.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O614Z22pnhG5974Hey06SlgSHeT24eUPwD&secret=3d4c2a8304d1673ecd3114c5c6f48568&time=1742500356
-#EXTINF:-1 group-title="생방송" ,연합뉴스
+#EXTINF:-1 group-title="생방송" tvg-id="연합뉴스TV.kr" tvg-name="연합뉴스TV",연합뉴스TV
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=newsy_540&sid=eaRByMvJw0UctghzvXsaA1xwMxFVZnO9G2f232VS&secret=6c2a394fc34ce9f0d1b6bc1b12e072b1&time=1772753846
 #EXTINF:-1 group-title="생방송",M2
 https://jmp2.uk/stvp-KRBC3200023BG
-#EXTINF:-1 group-title="생방송" ,tvN SPORTS
+#EXTINF:-1 group-title="생방송" tvg-id="tvN.SPORTS.kr" tvg-name="tvN SPORTS",tvN SPORTS
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=wvxGUVKUC8ecPNnlMMafXfMuPSCWW35YiGMxLKpv&secret=d9f6c7f86d334a9e721268b15d04f870&time=1765891767
-#EXTINF:-1 group-title="생방송" ,KBS N SPORTS
+#EXTINF:-1 group-title="생방송" tvg-id="KBS.N.Sports.kr" tvg-name="KBS N Sports",KBS N Sports
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=lkQCgUJXxH2vNQDwjbA9vvJLDmUl95x5WGNDg4kC&secret=0742366f04974647047748e2f2c60f53&time=1765891722
 #EXTINF:-1 group-title="생방송" ,MBC SPORTS
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbc_sports_540&sid=POxYPQ43PhrNZ8GskNfoG7byfjHxe7z93rrViHoU&secret=e2184c649e9eabbdeda2bb0e75c5abac&time=1765891315
 #EXTINF:-1 group-title="생방송" ,ENA SPORTS
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=sky_sports_540&sid=e5wpHcNgMggtHH1tdi4BbnB1UKETMkTzPy38oNNr&secret=83393a0ecf2798cad65cf7963a2f2d12&time=1765891354
-#EXTINF:-1 group-title="생방송" ,SBS SPORTS
+#EXTINF:-1 group-title="생방송" tvg-id="SBS.Sports.kr" tvg-name="SBS Sports",SBS Sports
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=ILsETd2qxAIReYV767tJgxtvn5VKOcdUt3X1Bzp7&secret=61a855e91a66a97bcbdb9812f8b10b7c&time=1765891394
-#EXTINF:-1 group-title="생방송" ,SBS GOLF
+#EXTINF:-1 group-title="생방송" tvg-id="SBS.Golf.kr" tvg-name="SBS Golf",SBS Golf
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=GL5kkVROZTJ18fuJkn4g33UsnCVEtuUyqSgZLcai&secret=061012f18a638c3b009b3978c09e032c&time=1772754283
-#EXTINF:-1 group-title="생방송" ,SBS GOLF2
+#EXTINF:-1 group-title="생방송" tvg-id="SBS.Golf2.kr" tvg-name="SBS Golf2",SBS Golf2
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=axuIWQCoNScP3na4YDca5wkntDjptTjJxCrgZQtS&secret=da7b334a488673d5ee74ee07c1a561df&time=1765892423
-#EXTINF:-1 group-title="생방송" ,JTBC GOLF
+#EXTINF:-1 group-title="생방송" tvg-id="JTBC.Golf.kr" tvg-name="JTBC Golf",JTBC Golf
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=tsI4MtYdf0NkahvQH5htgrTyYBAMvPlcYyucRaaE&secret=d61a1c8d2e94ff376e7edd6ddfd8d7be&time=1772754325
-#EXTINF:-1 group-title="생방송" ,JTBC GOLF&SPORTS
+#EXTINF:-1 group-title="생방송" tvg-id="JTBC.GOLF&SPORTS.kr" tvg-name="JTBC GOLF&SPORTS",JTBC GOLF&SPORTS
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
 #EXTINF:-1 group-title="생방송" ,SPOTV Golf&Health
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b04a19e6&sid=ltn6ql2VEBASSGQmB2Q6UlcDs6BJYAgNf8xQFOmu&secret=0056208f6c8c1f2b1fb4384ef32bc2e3&time=1765891443
@@ -124,9 +124,9 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b
 https://jmp2.uk/stvp-KRBD3100007WB
 #EXTINF:-1 group-title="생방송" ,스크린골프
 https://jmp2.uk/stvp-KR44000010Y
-#EXTINF:-1 group-title="생방송" ,SPOTV
+#EXTINF:-1 group-title="생방송" tvg-id="SPOTV.kr" tvg-name="SPOTV",SPOTV
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_540&sid=NV3u8ksyqK92z938RZFBkv2YbPVJAMLA6kwyTOLJ&secret=e9d4f0a64292fabf306ba48f62275fa0&time=1765891235
-#EXTINF:-1 group-title="생방송" ,SPOTV2
+#EXTINF:-1 group-title="생방송" tvg-id="SPOTV2.kr" tvg-name="SPOTV2",SPOTV2
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_2_540&sid=6Os571NBiR8XVEhIx6diM3X01l5UsPRTzvBWMF53&secret=75e5132e9ae7097fd4dcb9ff1a881527&time=1765892545
 #EXTINF:-1 group-title="생방송" ,SPOTV Prime+
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_prime_540&sid=qyI7BM30mUHBJ16jx15KF2NMLVTKKEhI9ZhSC23Y&secret=a8100c7415537e5da2db40962181614a&time=1765892590
@@ -134,67 +134,67 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_prime_540&sid=qyI7B
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on_540&sid=EQlmnOkHl5Esy6PNLmk1Sg1dVK1CKw2tkgZBj7nL&secret=dbbfb4a09b4bd1c862748c947b533db6&time=1765892639
 #EXTINF:-1 group-title="생방송" ,SPOTV Prime2
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_on2_540&sid=bQRIUtyfpTIV2IWGvrm9eDXXDpgeD452TYwz27ds&secret=22948804ea0eaae93297a9a5b766ef95&time=1765892812
-#EXTINF:-1 group-title="생방송" ,BilliardsTV 
+#EXTINF:-1 group-title="생방송" tvg-id="BilliardsTV.kr" tvg-name="BilliardsTV",BilliardsTV
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=bxoGY0nBKiAsgx13rEU3crfrjbFtDTDW1LWK3Eoz&secret=827efadef3e0e6ea7ac261cedae42030&time=1765893296
 #EXTINF:-1 group-title="생방송" ,Skysports F1
 https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=Br5URhDulDNVzAtwJhUHgA&e=2072611046&scheme=https
 #EXTINF:-1 group-title="생방송" ,OGN starleague
 https://jmp2.uk/stvp-KRBC3200005SH
-#EXTINF:-1 group-title="생방송" ,MNet
+#EXTINF:-1 group-title="생방송" tvg-id="Mnet.kr" tvg-name="Mnet",Mnet
 https://k227.jk-cdn.com/watch/live.m3u8?video=mnet_540&sid=SC46Lwd9aCihIv74PE76odBGLTwnTgpH9GyOD6eg&secret=390a59b7f8b450dfb170e5c47590050f&time=1773168944
-#EXTINF:-1 group-title="생방송" ,tvN SHOW
+#EXTINF:-1 group-title="생방송" tvg-id="tvN.SHOW.kr" tvg-name="tvN SHOW",tvN SHOW
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=btei8SrdZCpwjr93FgzI7OGAdeeXCXGw4BXFPzQo&secret=a9025939f2d1e981d2020031a966729e&time=1765893046
-#EXTINF:-1 group-title="생방송" ,ENA
+#EXTINF:-1 group-title="생방송" tvg-id="ENA.kr" tvg-name="ENA",ENA
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs_joy_540&sid=Yj9bfkjAif5rjWzAwr3lJwf33HioT5cjQu2sOvOY&secret=3c61e4ad06248b88a09d238ff20d7fa4&time=1765890963
-#EXTINF:-1 group-title="생방송" ,MBC Every1
+#EXTINF:-1 group-title="생방송" tvg-id="MBC.Every1.kr" tvg-name="MBC Every1",MBC Every1
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
-#EXTINF:-1 group-title="생방송" ,SBS Plus
+#EXTINF:-1 group-title="생방송" tvg-id="SBS.Plus.kr" tvg-name="SBS Plus",SBS Plus
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=sbs_plus_540&sid=PSGAnCYbuV5h5n957kwavdsTd1M9EtFZwsixuxcN&secret=703094f919241535d243917621af3c53&time=1765893212
-#EXTINF:-1 group-title="생방송" ,E Channel
+#EXTINF:-1 group-title="생방송" tvg-id="E채널.kr" tvg-name="E채널",E채널
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=channel_e_540&sid=73MxlHL2gH7316d8Pep1sEorvOjeAEUV4LbFxupT&secret=29e942a9896054ebeb9dcaa0a83dbc74&time=1772754436
-#EXTINF:-1 group-title="생방송" ,tvN STORY
+#EXTINF:-1 group-title="생방송" tvg-id="tvN.STORY.kr" tvg-name="tvN STORY",tvN STORY
 https://jmp2.uk/stvp-KRBC3200014XZ
-#EXTINF:-1 group-title="생방송" ,tvN DRAMA
+#EXTINF:-1 group-title="생방송" tvg-id="tvN.DRAMA.kr" tvg-name="tvN DRAMA",tvN DRAMA
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=FHD&apikey=5MY50EII66
-#EXTINF:-1 group-title="생방송" ,KBS Drama
+#EXTINF:-1 group-title="생방송" tvg-id="KBS.Drama.kr" tvg-name="KBS Drama",KBS Drama
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs_drama_540&sid=paKP8quwQXA1v3f8CDgxH6h7IfCezfoMX4CPYs9i&secret=0f3e15ed586d8b39e2197abcdaa39726&time=1772754511
-#EXTINF:-1 group-title="생방송" ,코미디TV
+#EXTINF:-1 group-title="생방송" tvg-id="코미디TV.kr" tvg-name="코미디TV",코미디TV
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=comedy_540&sid=VwrbOrArABoCGtqRD7p4O5o3TLyqonOhScABtAo7&secret=2fe9f41d49ae8ea23b419e850b69671d&time=1742501996
-#EXTINF:-1 group-title="생방송" ,MBC On
+#EXTINF:-1 group-title="생방송" tvg-id="MBC.ON.kr" tvg-name="MBC ON",MBC ON
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbc_on_540&sid=eTTqEJ0bwgsl4WbHyEWCbu1C6Rs7ntHJaCUcq09S&secret=56c57029ef6aa1e04a3895d8b6c91506&time=1765893385
-#EXTINF:-1 group-title="생방송" ,중화TV
+#EXTINF:-1 group-title="생방송" tvg-id="중화TV.kr" tvg-name="중화TV",중화TV
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=chinesetv_540&sid=1zs8m9CsajpMXxNHeDJLmhn3wq0LUcYJYGwjgXJW&secret=03f7beff894c6917da6b82372a2fc208&time=1765893417
-#EXTINF:-1 group-title="생방송" ,바둑TV
+#EXTINF:-1 group-title="생방송" tvg-id="바둑TV.kr" tvg-name="바둑TV",바둑TV
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=baduk_540&sid=LPrku9OjvDYvHrX7BojWXG1dC7AgHnN2WRxy9UFJ&secret=cb9907778835b1c310350f82deabef9f&time=1765893443
-#EXTINF:-1 group-title="생방송" ,브레인TV
+#EXTINF:-1 group-title="생방송" tvg-id="브레인TV.kr" tvg-name="브레인TV",브레인TV
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=brain_tv_540&sid=z4iXXRtBCd6B8oaMP4T2AvM2WNp5PNrypWn2qbWt&secret=0c04ddc2c268db11984a3241f38e5e25&time=1765893473
-#EXTINF:-1 group-title="생방송" ,FTV
+#EXTINF:-1 group-title="생방송" tvg-id="FTV.kr" tvg-name="FTV",FTV
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ftv_540&sid=6RPjuu8hzNESESu6ZqL0GZ6LvgJipWnDyobzV8dY&secret=262db54492c46ab76dce040f93621f46&time=1772754633
 #EXTINF:-1 group-title="생방송" ,네셔날지오그래피
 #https://live-th10.myjktv.com:443/watch/live.m3u8?video=national_540&sid=Frw4dKWvqJLBjvHgByjOVO1M8zkSD6LjvUABHvLS&secret=5c8e0f0753609c3db02f0a5a0786ccd1&time=1742555875
-#EXTINF:-1 group-title="생방송" ,디스커버리
+#EXTINF:-1 group-title="생방송" tvg-id="디스커버리.kr" tvg-name="디스커버리",디스커버리
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=discovery_540&sid=2iObz48WCFCkHcuaQTRez5kpeHPfdHYiOE1icCKS&secret=660b5a2059948553effae93e4def6d04&time=1742555991
 #EXTINF:-1 group-title="생방송" ,Nat Geo Wild
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=nat_geo_wild_540&sid=0wJqyjtLKS6wxrUnZ6cnaRHDVz6ztklaA1tOzALv&secret=8a3bcec4a32f89003264607c049a2ce3&time=1742556081
-#EXTINF:-1 group-title="생방송" ,History
+#EXTINF:-1 group-title="생방송" tvg-id="히스토리.kr" tvg-name="히스토리",히스토리
 https://live-th10.myjktv.com:434/watch/live.m3u8?video=history_540&sid=ktDYnxAlcjz7V3RTfpIGFtr5pGjLTXXbuEqQQTjG&secret=fa393d7a7f8b5c570fa9a02d67e5ddb8&time=1742556221
-#EXTINF:-1 group-title="생방송" ,iNET
+#EXTINF:-1 group-title="생방송" tvg-id="I.net.kr" tvg-name="I.net",I.net
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=inet_540&sid=OPbFOFpoTQ729gz3U05zWdlE920QJze3POZPfHuO&secret=5121ac51f8f56d26f013a0db2cbe06e9&time=1742556350
-#EXTINF:-1 group-title="생방송" ,JEI 재능TV
+#EXTINF:-1 group-title="생방송" tvg-id="JEI재능TV.kr" tvg-name="JEI재능TV",JEI재능TV
 https://live-th10.myjktv.com:43/watch/live.m3u8?video=jei_jenung_540&sid=5x1n6FyzRQMkri2LhZ71Mjao59LSpdVKNNnvDkJW&secret=1fd8004ee3d2c119d064ec88b38d97b3&time=1742556811
-#EXTINF:-1 group-title="생방송" ,육아방송
+#EXTINF:-1 group-title="생방송" tvg-id="육아방송.kr" tvg-name="육아방송",육아방송
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=child_care_540&sid=MCMbs5pnRCoyIVAPtv5g0MRDu11MEoQNUSSpZfsk&secret=706abe245cd1b8483e082c3ee34c19b3&time=1742556877
-#EXTINF:-1 group-title="생방송" ,뽀요 TV
+#EXTINF:-1 group-title="생방송" tvg-id="뽀요TV.kr" tvg-name="뽀요TV",뽀요TV
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=disney_channel_540&sid=f6coDFH9FZGv5Tl9FZinkVetugwWFq3RjSfNJIWl&secret=c0c2de490583ac54b9710cc8ac2a8636&time=1742556938
-#EXTINF:-1 group-title="생방송" ,KBS kids
+#EXTINF:-1 group-title="생방송" tvg-id="KBS.Kids.kr" tvg-name="KBS Kids",KBS Kids
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs_kids_540&sid=6GIrIVmGxADvFwNcDZn2ZKO972L101Y0O54pvVUu&secret=e5d3211063e265afd0cd9f542d9d3de2&time=1742557009
-#EXTINF:-1 group-title="생방송" ,Toonivers
+#EXTINF:-1 group-title="생방송" tvg-id="투니버스.kr" tvg-name="투니버스",투니버스
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=tooniverse_540&sid=fbO9zMMKvUK35ijl9bZvvQFp551em1yMeN1SOcoc&secret=924360c5677f057f590ce2c9ebd64710&time=1765893550
-#EXTINF:-1 group-title="생방송" ,Cartoon
+#EXTINF:-1 group-title="생방송" tvg-id="카툰네트워크.kr" tvg-name="카툰네트워크",카툰네트워크
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=cartoon_network_540&sid=dj1j7ZwSpiH5c1N1fLleTOkPntdpLhIzv2GOzvpa&secret=17b623f405a674a01727e56b561e36a0&time=1765893515
 #EXTINF:-1 group-title="생방송" ,어린이TV
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=childrens_tv_540&sid=GG1bfBvi36wnK62vXixEL1VPInMZRWJGrJENstKL&secret=0cb8542f641b3a6d55bebb13a87d4aed&time=1765893151
-#EXTINF:-1 group-title="생방송" ,ANIPLUS
+#EXTINF:-1 group-title="생방송" tvg-id="애니플러스.kr" tvg-name="애니플러스",애니플러스
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00901&q=FHD&apikey=5MY50EII66
 #EXTINF:-1 group-title="생방송" ,CNN
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=cnn_kr_540&sid=7ySL8aoIyy2NPbS1ENkvzkgj9C3GvJq2bdQ7PneQ&secret=0477f93d5d7e29a87ad3482bd1ecf100&time=1742558366
@@ -202,26 +202,26 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=cnn_kr_540&sid=7ySL8aoIyy
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=bbc_kr_540&sid=NvDfJvaZ3zU7NbrHR43AaUgWJK2zdoOc8KCQzTll&secret=aa2b347766700a37e0d86da63886687d&time=1742558446
 #EXTINF:-1 group-title="생방송" ,NHK World
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=nhk_wold_540&sid=VQ5jdk6wCPjw6VcPfOv76Syot6CoP9YgzBLFeHjZ&secret=a86dad9133b53ffc834fe98b63c98919&time=1742558568
-#EXTINF:-1 group-title="생방송" ,TV조선
+#EXTINF:-1 group-title="생방송" tvg-id="TV조선.kr" tvg-name="TV조선",TV조선
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvchosun_540&sid=fKZsnPIjdoVZrjIWsqL5dPcQwba75T2ANFPAQIih&secret=18d00e092d1f8fa5a6107f0328ff4972&time=1742500050
-#EXTINF:-1 group-title="생방송" ,채널A
+#EXTINF:-1 group-title="생방송" tvg-id="채널A.kr" tvg-name="채널A",채널A
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=channela_540&sid=zLhHxUtd4yz2toiohNMEfx63yhemDSOd2xgsFaBV&secret=ad760dc9b77c911e341d5e114e36feff&time=1742500133
-#EXTINF:-1 group-title="생방송" ,MBN
+#EXTINF:-1 group-title="생방송" tvg-id="MBN.kr" tvg-name="MBN",MBN
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbn_540&sid=JrgTsnJKQo0TU9yiyoZf7eA9llHJEMpTQlgyggsJ&secret=68b0e61613ec8fda51fd248052b6aa69&time=1742500229
-#EXTINF:-1 group-title="생방송" ,한국경제
+#EXTINF:-1 group-title="생방송" tvg-id="한국경제TV.kr" tvg-name="한국경제TV",한국경제TV
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=wowtv_540&sid=78aYN4ktf0r1dt55tnyXZwly6i1geE6psoDdZvce&secret=d1de772e9eeb5dcf1636c239f633cdb2&time=1742500679
-#EXTINF:-1 group-title="생방송" ,현대홈쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="현대홈쇼핑.kr" tvg-name="현대홈쇼핑",현대홈쇼핑
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
 #EXTINF:-1 group-title="생방송"  ,GMTV 
 http://1.214.67.38/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",더라이프 
+#EXTINF:-1 group-title="생방송" tvg-id="더.라이프.kr" tvg-name="더 라이프",더 라이프
 http://1.214.67.38/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",라이프타임 
+#EXTINF:-1 group-title="생방송" tvg-id="라이프타임.kr" tvg-name="라이프타임",라이프타임
 http://1.214.67.38/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",OCN
+#EXTINF:-1 group-title="생방송" tvg-id="OCN.kr" tvg-name="OCN",OCN
 http://180.69.60.42:8856/udp/239.192.67.226:49220
 
-#EXTINF:-1 group-title="생방송" ,OCN Movies
+#EXTINF:-1 group-title="생방송" tvg-id="OCN.Movies.kr" tvg-name="OCN Movies",OCN Movies
 http://180.69.60.42:8856/udp/239.192.67.227:49220
 #EXTINF:-1 group-title="생방송" ,OCN Thrills
 http://180.69.60.42:8856/udp/239.192.67.228:49220
@@ -229,40 +229,40 @@ http://180.69.60.42:8856/udp/239.192.67.228:49220
 http://edge4.hcnmobile.tv/etv/phddmcbusan/playlist.m3u8
 #EXTINF:-1 group-title="생방송",Groovv 
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="생방송" , SPOTV
+#EXTINF:-1 group-title="생방송" tvg-id="SPOTV.kr" tvg-name="SPOTV",SPOTV
 http://1.214.67.38/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" , SPOTV 2
+#EXTINF:-1 group-title="생방송" tvg-id="SPOTV2.kr" tvg-name="SPOTV2",SPOTV2
 http://1.214.67.38/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" ,tvn Sports
+#EXTINF:-1 group-title="생방송" tvg-id="tvN.SPORTS.kr" tvg-name="tvN SPORTS",tvN SPORTS
 https://jmp2.uk/stvp-KRBC800015MH
-#EXTINF:-1 group-title="생방송" ,KBSN 스포츠
+#EXTINF:-1 group-title="생방송" tvg-id="KBS.N.Sports.kr" tvg-name="KBS N Sports",KBS N Sports
 http://180.69.60.42:8856/udp/239.192.67.132:49220
-#EXTINF:-1 group-title="생방송" ,MBC Sports+
+#EXTINF:-1 group-title="생방송" tvg-id="MBC.SPORTS+.kr" tvg-name="MBC SPORTS+",MBC SPORTS+
 http://180.69.60.42:8856/udp/239.192.67.131:49220
-#EXTINF:-1 group-title="생방송" ,SBS Sports
+#EXTINF:-1 group-title="생방송" tvg-id="SBS.Sports.kr" tvg-name="SBS Sports",SBS Sports
 http://180.69.60.42:8856/udp/239.192.67.130:49220
 #EXTINF:-1 group-title="생방송" ,SPOTV GOLF 
 http://1.214.67.38/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" ,JTBCGOLF
+#EXTINF:-1 group-title="생방송" tvg-id="JTBC.Golf.kr" tvg-name="JTBC Golf",JTBC Golf
 https://jmp2.uk/stvp-KRBD5200002XY
 http://180.69.60.42:8856/udp/239.192.67.165:49220
 #EXTINF:-1 group-title="생방송" ,JTBC GOLFSPOT 
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
-#EXTINF:-1 group-title="생방송" ,SBSGOLF 
+#EXTINF:-1 group-title="생방송" tvg-id="SBS.Golf.kr" tvg-name="SBS Golf",SBS Golf
 http://1.214.67.38/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",PGA GOLF 
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
 #EXTINF:-1 group-title="생방송" ,스크린골프존 
 https://jmp2.uk/stvp-KR44000010Y
-#EXTINF:-1 group-title="생방송"  ,STATV 
+#EXTINF:-1 group-title="생방송" tvg-id="STATV.kr" tvg-name="STATV",STATV
 http://1.214.67.38/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" , 바둑TV 
+#EXTINF:-1 group-title="생방송" tvg-id="바둑TV.kr" tvg-name="바둑TV",바둑TV
 http://1.214.67.38/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송"  ,장기TV 
 http://1.214.67.38/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송"  ,빌리어즈TV 
+#EXTINF:-1 group-title="생방송" tvg-id="BilliardsTV.kr" tvg-name="BilliardsTV",BilliardsTV
 http://1.214.67.38/vod/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" ,FTV 
+#EXTINF:-1 group-title="생방송" tvg-id="FTV.kr" tvg-name="FTV",FTV
 http://1.214.67.38/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송" ,한국낚시 
 http://1.214.67.38/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
@@ -272,97 +272,97 @@ https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.co
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
 #EXTINF:-1 group-title="생방송",SKY SPORTS F1
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
-#EXTINF:-1 group-title="생방송",IB SPORTS
+#EXTINF:-1 group-title="생방송" tvg-id="IB.Sports.kr" tvg-name="IB Sports",IB Sports
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=Apn7LTiUje3L7FmQObTgYnKBNeDUDytdiUSkqYw1&secret=7e6facc78d8f68a85388b1945d966a04&time=1742501522
-#EXTINF:-1 group-title="생방송"   , EBS-1 
+#EXTINF:-1 group-title="생방송" tvg-id="EBS.kr" tvg-name="EBS",EBS
 http://1.214.67.38/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",KBSKids
+#EXTINF:-1 group-title="생방송" tvg-id="KBS.Kids.kr" tvg-name="KBS Kids",KBS Kids
 http://koreatv.dothome.co.kr/kbskids.php
 #EXTINF:-1 group-title="생방송",EBS어린이
 http://1.214.67.38/vod/60701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",애니맥스 
+#EXTINF:-1 group-title="생방송" tvg-id="애니맥스.kr" tvg-name="애니맥스",애니맥스
 http://1.214.67.38/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",애니플러스 
+#EXTINF:-1 group-title="생방송" tvg-id="애니플러스.kr" tvg-name="애니플러스",애니플러스
 http://1.214.67.38/vod/69901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",브라보키즈 
 http://1.214.67.38/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",대교어린이TV 
+#EXTINF:-1 group-title="생방송" tvg-id="대교어린이TV.kr" tvg-name="대교어린이TV",대교어린이TV
 http://1.214.67.38/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",플레이런TV 
 http://1.214.67.38/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",폴라리스TV 
 http://1.214.67.38/vod/72601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",한국경제TV
+#EXTINF:-1 group-title="생방송" tvg-id="한국경제TV.kr" tvg-name="한국경제TV",한국경제TV
 http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",서울경제TV
+#EXTINF:-1 group-title="생방송" tvg-id="서울경제TV.kr" tvg-name="서울경제TV",서울경제TV
 https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
-#EXTINF:-1 group-title="생방송",토마토증권통 
+#EXTINF:-1 group-title="생방송" tvg-id="토마토증권통.kr" tvg-name="토마토증권통",토마토증권통
 http://1.214.67.38/vod/77101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",매일경제TV
+#EXTINF:-1 group-title="생방송" tvg-id="매일경제TV.kr" tvg-name="매일경제TV",매일경제TV
 http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
-#EXTINF:-1 group-title="생방송",Asia N 
+#EXTINF:-1 group-title="생방송" tvg-id="Asia.N.kr" tvg-name="Asia N",Asia N
 http://1.214.67.38/vod/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송"  ,OBS 
+#EXTINF:-1 group-title="생방송" tvg-id="OBS.kr" tvg-name="OBS",OBS
 http://1.214.67.38/vod/59601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",OBS W 
+#EXTINF:-1 group-title="생방송" tvg-id="OBS.W.kr" tvg-name="OBS W",OBS W
 http://1.214.67.38/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",MBCNET
+#EXTINF:-1 group-title="생방송" tvg-id="MBC.NET.kr" tvg-name="MBC NET",MBC NET
 http://mytv.dothome.co.kr/ch/catv/28.php/.m3u8
 #EXTINF:-1 group-title="생방송",NIB 남인천방송
 http://stream.nibtv.co.kr:1935/live/nib/playlist.m3u8
 #EXTINF:-1 group-title="생방송",지방자치TV
 https://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
-#EXTINF:-1 group-title="생방송",국회방송
+#EXTINF:-1 group-title="생방송" tvg-id="국회방송.kr" tvg-name="국회방송",국회방송
 https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
 #EXTINF:-1 group-title="생방송",KCN 금강방송
 http://62db982017b54.streamlock.net:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",다문화TV
+#EXTINF:-1 group-title="생방송" tvg-id="다문화TV.kr" tvg-name="다문화TV",다문화TV
 https://10st.vcast.im/MYASIATV/SC82767452/playlist.m3u8
-#EXTINF:-1 group-title="생방송",방송대학TV
+#EXTINF:-1 group-title="생방송" tvg-id="OUN.kr" tvg-name="OUN",OUN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_313_D46B5C07.m3u8
 #EXTINF:-1 group-title="생방송",소상공인방송
 https://cdnlive179.smartucc.kr/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
-#EXTINF:-1 group-title="생방송",CJ OnStyle
+#EXTINF:-1 group-title="생방송" tvg-id="CJ.온스타일.kr" tvg-name="CJ 온스타일",CJ 온스타일
 http://1.214.67.38/vod/67201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",CJ OnStyle Plus
+#EXTINF:-1 group-title="생방송" tvg-id="CJ.온스타일플러스.kr" tvg-name="CJ 온스타일플러스",CJ 온스타일플러스
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 group-title="생방송",GS My Shop
+#EXTINF:-1 group-title="생방송" tvg-id="GS.MY.SHOP.kr" tvg-name="GS MY SHOP",GS MY SHOP
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",GS Shop
+#EXTINF:-1 group-title="생방송" tvg-id="GS.SHOP.kr" tvg-name="GS SHOP",GS SHOP
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",현대홈쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="현대홈쇼핑.kr" tvg-name="현대홈쇼핑",현대홈쇼핑
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
-#EXTINF:-1 group-title="생방송",현대홈쇼핑+샵
+#EXTINF:-1 group-title="생방송" tvg-id="현대홈쇼핑+Shop.kr" tvg-name="현대홈쇼핑+Shop",현대홈쇼핑+Shop
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-#EXTINF:-1 group-title="생방송",KT알파쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="KT알파쇼핑.kr" tvg-name="KT알파쇼핑",KT알파쇼핑
 https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
-#EXTINF:-1 group-title="생방송",NS 홈쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="NS홈쇼핑.kr" tvg-name="NS홈쇼핑",NS홈쇼핑
 http://1.214.67.206/vod/67301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",NS샵플러스
+#EXTINF:-1 group-title="생방송" tvg-id="NS.SHOP+.kr" tvg-name="NS SHOP+",NS SHOP+
 http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
-#EXTINF:-1 group-title="생방송",롯데홈쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="롯데홈쇼핑.kr" tvg-name="롯데홈쇼핑",롯데홈쇼핑
 http://1.214.67.38/vod/67401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",롯데onetv
+#EXTINF:-1 group-title="생방송" tvg-id="LOTTE.OneTV.kr" tvg-name="LOTTE OneTV",LOTTE OneTV
 http://onetvhlslive.lotteimall.com/lotteonetvlive/_definst_/lotteonetvlive.mp4.m3u8
-#EXTINF:-1 group-title="생방송",신세계쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="신세계쇼핑.kr" tvg-name="신세계쇼핑",신세계쇼핑
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-#EXTINF:-1 group-title="생방송",홈앤쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="홈&쇼핑.kr" tvg-name="홈&쇼핑",홈&쇼핑
 https://s30.qtcdn.co.kr/media/liveM3U8/idx/484074138/enc/1790577012/playlist.m3u8
-#EXTINF:-1 group-title="생방송",W쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="W쇼핑.kr" tvg-name="W쇼핑",W쇼핑
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-#EXTINF:-1 group-title="생방송",쇼핑엔티
+#EXTINF:-1 group-title="생방송" tvg-id="쇼핑엔티.kr" tvg-name="쇼핑엔티",쇼핑엔티
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_519_3CA51C10.m3u8
-#EXTINF:-1 group-title="생방송",공영쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="공영쇼핑.kr" tvg-name="공영쇼핑",공영쇼핑
 https://etv.publichs.com/live5.stream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",sk스토아
+#EXTINF:-1 group-title="생방송" tvg-id="SK.stoa.kr" tvg-name="SK stoa",SK stoa
 http://castcache2.skstoa.com:8080/2001.stream/tsmux.noll_master.m3u8
 #EXTINF:-1 group-title="생방송",QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="생방송",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 group-title="생방송",NS 홈쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="NS홈쇼핑.kr" tvg-name="NS홈쇼핑",NS홈쇼핑
 http://livestream.nsmall.com:1935/IPHONE/test.m3u8
-#EXTINF:-1 group-title="생방송",ocn
+#EXTINF:-1 group-title="생방송" tvg-id="OCN.kr" tvg-name="OCN",OCN
 http://43.137.43.57/get_channel.php?channel=ocn
 #EXTINF:-1 group-title="생방송"  , 조선방송
 https://tv.intchoson.com/kctv/main_stream.m3u8
@@ -374,45 +374,45 @@ https://srs.iyb983.cn/video/ybtv1/index.m3u8
 https://srs.iyb983.cn/video/ybtv2/index.m3u8
 #EXTINF:-1 group-title="생방송",채널i
 http://1.201.160.177:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",한국경제TV
+#EXTINF:-1 group-title="생방송" tvg-id="한국경제TV.kr" tvg-name="한국경제TV",한국경제TV
 http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",매일경제TV
+#EXTINF:-1 group-title="생방송" tvg-id="매일경제TV.kr" tvg-name="매일경제TV",매일경제TV
 http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
-#EXTINF:-1 group-title="생방송",서울경제
+#EXTINF:-1 group-title="생방송" tvg-id="서울경제TV.kr" tvg-name="서울경제TV",서울경제TV
 https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
 #EXTINF:-1 group-title="생방송",국악방송
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",ktv
+#EXTINF:-1 group-title="생방송" tvg-id="KTV.kr" tvg-name="KTV",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 group-title="생방송",ABN
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 group-title="생방송",한국농업방송
+#EXTINF:-1 group-title="생방송" tvg-id="NBS한국농업방송.kr" tvg-name="NBS한국농업방송",NBS한국농업방송
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 group-title="생방송",OUN 
+#EXTINF:-1 group-title="생방송" tvg-id="OUN.kr" tvg-name="OUN",OUN
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 group-title="생방송",OBS경인TV
+#EXTINF:-1 group-title="생방송" tvg-id="OBS.kr" tvg-name="OBS",OBS
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",cts
+#EXTINF:-1 group-title="생방송" tvg-id="CTS기독교TV.kr" tvg-name="CTS기독교TV",CTS기독교TV
 https://video.cdn.cts.tv/index_1.m3u8
 #EXTINF:-1 group-title="생방송",C채널
 http://112.175.51.214:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="생방송",GCN24 Korean
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",GOODTV
+#EXTINF:-1 group-title="생방송" tvg-id="GOODTV.kr" tvg-name="GOODTV",GOODTV
 http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="생방송",FGTV
 https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="생방송",RUTC TV
 http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",BBS Buddhist Broadcasting
+#EXTINF:-1 group-title="생방송" tvg-id="BBS.불교방송.kr" tvg-name="BBS 불교방송",BBS 불교방송
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",BTN TV
+#EXTINF:-1 group-title="생방송" tvg-id="BTN불교TV.kr" tvg-name="BTN불교TV",BTN불교TV
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1 group-title="생방송",Lighting Lives Blessing Nations TV Korean
 https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
 #EXTINF:-1 group-title="생방송",서경방송
 https://live.iscs.co.kr/m_live/480p.stream/chunklist_w435655614.m3u8
-#EXTINF:-1 group-title="생방송",SBS
+#EXTINF:-1 group-title="생방송" tvg-id="SBS.kr" tvg-name="SBS",SBS
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="생방송",SBS CJB
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
@@ -428,66 +428,66 @@ http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
 #EXTINF:-1 group-title="생방송",SBSCJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 group-title="생방송",연합뉴스
+#EXTINF:-1 group-title="생방송" tvg-id="연합뉴스TV.kr" tvg-name="연합뉴스TV",연합뉴스TV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
-#EXTINF:-1 group-title="생방송",YTN
+#EXTINF:-1 group-title="생방송" tvg-id="YTN.kr" tvg-name="YTN",YTN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
-#EXTINF:-1 group-title="생방송",티비조선
+#EXTINF:-1 group-title="생방송" tvg-id="TV조선.kr" tvg-name="TV조선",TV조선
 http://211.170.95.22/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
-#EXTINF:-1 group-title="생방송",TV Chosun 
+#EXTINF:-1 group-title="생방송" tvg-id="TV조선.kr" tvg-name="TV조선",TV조선
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 group-title="생방송",TV Chosun
+#EXTINF:-1 group-title="생방송" tvg-id="TV조선.kr" tvg-name="TV조선",TV조선
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
-#EXTINF:-1 group-title="생방송",mbn
+#EXTINF:-1 group-title="생방송" tvg-id="MBN.kr" tvg-name="MBN",MBN
 https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="생방송",MBN 
+#EXTINF:-1 group-title="생방송" tvg-id="MBN.kr" tvg-name="MBN",MBN
 http://1.214.67.38/vod/75001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",티비조선 
+#EXTINF:-1 group-title="생방송" tvg-id="TV조선.kr" tvg-name="TV조선",TV조선
 http://1.214.67.38/vod/74601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",연합뉴스
+#EXTINF:-1 group-title="생방송" tvg-id="연합뉴스TV.kr" tvg-name="연합뉴스TV",연합뉴스TV
 http://1.214.67.38/vod/73401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",YTN
+#EXTINF:-1 group-title="생방송" tvg-id="YTN.kr" tvg-name="YTN",YTN
 http://1.214.67.38/vod/69801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",채널a
+#EXTINF:-1 group-title="생방송" tvg-id="채널A.kr" tvg-name="채널A",채널A
 http://1.214.67.38/vod/74901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",JTBC
+#EXTINF:-1 group-title="생방송" tvg-id="JTBC.kr" tvg-name="JTBC",JTBC
 http://1.214.67.38/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",JTBC2
+#EXTINF:-1 group-title="생방송" tvg-id="JTBC2.kr" tvg-name="JTBC2",JTBC2
 http://1.214.67.38/vod/60601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",JTBC4
+#EXTINF:-1 group-title="생방송" tvg-id="JTBC4.kr" tvg-name="JTBC4",JTBC4
 http://1.214.67.38/vod/76701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",TV Chosun 2
+#EXTINF:-1 group-title="생방송" tvg-id="TVCHOSUN2.kr" tvg-name="TVCHOSUN2",TVCHOSUN2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="생방송",GMTV
 http://1.214.67.38/vod/68801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",더라이프
+#EXTINF:-1 group-title="생방송" tvg-id="더.라이프.kr" tvg-name="더 라이프",더 라이프
 http://1.214.67.38/vod/77201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",라이프타임
+#EXTINF:-1 group-title="생방송" tvg-id="라이프타임.kr" tvg-name="라이프타임",라이프타임
 http://1.214.67.38/vod/60301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",SPOTV
+#EXTINF:-1 group-title="생방송" tvg-id="SPOTV.kr" tvg-name="SPOTV",SPOTV
 http://1.214.67.38/vod/66701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",SPOTV 2
+#EXTINF:-1 group-title="생방송" tvg-id="SPOTV2.kr" tvg-name="SPOTV2",SPOTV2
 http://1.214.67.38/vod/38301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",SPOTV GOLF
 http://1.214.67.38/vod/65001.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",JTBC GOLFSPOT
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
-#EXTINF:-1 group-title="생방송",SBSGOLF
+#EXTINF:-1 group-title="생방송" tvg-id="SBS.Golf.kr" tvg-name="SBS Golf",SBS Golf
 http://1.214.67.38/vod/61401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",PGA GOLF 
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
 #EXTINF:-1 group-title="생방송",스크린골프존
 https://jmp2.uk/stvp-KR44000010Y
-#EXTINF:-1 group-title="생방송",STATV 
+#EXTINF:-1 group-title="생방송" tvg-id="STATV.kr" tvg-name="STATV",STATV
 http://1.214.67.38/vod/72701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",바둑TV
+#EXTINF:-1 group-title="생방송" tvg-id="바둑TV.kr" tvg-name="바둑TV",바둑TV
 http://1.214.67.38/vod/68301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",장기TV 
 http://1.214.67.38/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",빌리어즈TV 
+#EXTINF:-1 group-title="생방송" tvg-id="BilliardsTV.kr" tvg-name="BilliardsTV",BilliardsTV
 http://1.214.67.38/vod/66801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",FTV 
+#EXTINF:-1 group-title="생방송" tvg-id="FTV.kr" tvg-name="FTV",FTV
 http://1.214.67.38/vod/66501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",한국낚시 
 http://1.214.67.38/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
@@ -495,99 +495,99 @@ http://1.214.67.38/vod/62501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-0000201
 https://20dcc2e0be9f4531807ffdee9b1d4c3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-llt6avk4kc54t/e9a4074c-df08-4de6-bd13-3b0365762a1c/2.m3u8
 #EXTINF:-1 group-title="생방송",스타리그
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_1260_908E32D6.m3u8
-#EXTINF:-1 group-title="생방송",EBS-1 
+#EXTINF:-1 group-title="생방송" tvg-id="EBS.kr" tvg-name="EBS",EBS
 http://1.214.67.38/vod/38901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",EBS少아동
 http://1.214.67.38/vod/60701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",애니맥스 
+#EXTINF:-1 group-title="생방송" tvg-id="애니맥스.kr" tvg-name="애니맥스",애니맥스
 http://1.214.67.38/vod/70301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",애니플러스 
+#EXTINF:-1 group-title="생방송" tvg-id="애니플러스.kr" tvg-name="애니플러스",애니플러스
 http://1.214.67.38/vod/69901.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",브라보키즈 
 http://1.214.67.38/vod/72801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",대교어린이TV 
+#EXTINF:-1 group-title="생방송" tvg-id="대교어린이TV.kr" tvg-name="대교어린이TV",대교어린이TV
 http://1.214.67.38/vod/76101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",플레이런TV 
 http://1.214.67.38/vod/17501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
 #EXTINF:-1 group-title="생방송",폴라리스TV 
 http://1.214.67.38/vod/72601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",한국경제TV
+#EXTINF:-1 group-title="생방송" tvg-id="한국경제TV.kr" tvg-name="한국경제TV",한국경제TV
 http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",서울경제TV
+#EXTINF:-1 group-title="생방송" tvg-id="서울경제TV.kr" tvg-name="서울경제TV",서울경제TV
 https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/3b82faa9-7041-45e1-a61b-5405b8f1c824/0.m3u8
-#EXTINF:-1 group-title="생방송",토마토증권통 
+#EXTINF:-1 group-title="생방송" tvg-id="토마토증권통.kr" tvg-name="토마토증권통",토마토증권통
 http://1.214.67.38/vod/77101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",매일경제TV
+#EXTINF:-1 group-title="생방송" tvg-id="매일경제TV.kr" tvg-name="매일경제TV",매일경제TV
 http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
-#EXTINF:-1 group-title="생방송",Asia N 
+#EXTINF:-1 group-title="생방송" tvg-id="Asia.N.kr" tvg-name="Asia N",Asia N
 http://1.214.67.38/vod/65801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송" tvg-logo="https://i.imgur.com/C1zvP3w.png" ,OBS 
+#EXTINF:-1 group-title="생방송" tvg-logo="https://i.imgur.com/C1zvP3w.png" tvg-id="OBS.kr" tvg-name="OBS",OBS
 http://1.214.67.38/vod/59601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",OBS W 
+#EXTINF:-1 group-title="생방송" tvg-id="OBS.W.kr" tvg-name="OBS W",OBS W
 http://1.214.67.38/vod/64801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",MBCNET
+#EXTINF:-1 group-title="생방송" tvg-id="MBC.NET.kr" tvg-name="MBC NET",MBC NET
 http://mytv.dothome.co.kr/ch/catv/28.php/.m3u8
 #EXTINF:-1 group-title="생방송",NIB 남인천방송
 http://stream.nibtv.co.kr:1935/live/nib/playlist.m3u8
 #EXTINF:-1 group-title="생방송",지방자치TV
 https://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
-#EXTINF:-1 group-title="생방송",국회방송
+#EXTINF:-1 group-title="생방송" tvg-id="국회방송.kr" tvg-name="국회방송",국회방송
 https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
 #EXTINF:-1 group-title="생방송",KCN 금강방송
 http://62db982017b54.streamlock.net:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",방송대학TV
+#EXTINF:-1 group-title="생방송" tvg-id="OUN.kr" tvg-name="OUN",OUN
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_313_D46B5C07.m3u8
-#EXTINF:-1 group-title="생방송",CJ OnStyle
+#EXTINF:-1 group-title="생방송" tvg-id="CJ.온스타일.kr" tvg-name="CJ 온스타일",CJ 온스타일
 http://1.214.67.38/vod/67201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",CJ OnStyle Plus
+#EXTINF:-1 group-title="생방송" tvg-id="CJ.온스타일플러스.kr" tvg-name="CJ 온스타일플러스",CJ 온스타일플러스
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 group-title="생방송",GS My Shop
+#EXTINF:-1 group-title="생방송" tvg-id="GS.MY.SHOP.kr" tvg-name="GS MY SHOP",GS MY SHOP
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",GS Shop
+#EXTINF:-1 group-title="생방송" tvg-id="GS.SHOP.kr" tvg-name="GS SHOP",GS SHOP
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",현대홈쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="현대홈쇼핑.kr" tvg-name="현대홈쇼핑",현대홈쇼핑
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
-#EXTINF:-1 group-title="생방송",현대홈쇼핑+샵
+#EXTINF:-1 group-title="생방송" tvg-id="현대홈쇼핑+Shop.kr" tvg-name="현대홈쇼핑+Shop",현대홈쇼핑+Shop
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-#EXTINF:-1 group-title="생방송",KT알파쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="KT알파쇼핑.kr" tvg-name="KT알파쇼핑",KT알파쇼핑
 https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
-#EXTINF:-1 group-title="생방송",NS 홈쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="NS홈쇼핑.kr" tvg-name="NS홈쇼핑",NS홈쇼핑
 http://1.214.67.206/vod/67301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",NS샵플러스
+#EXTINF:-1 group-title="생방송" tvg-id="NS.SHOP+.kr" tvg-name="NS SHOP+",NS SHOP+
 http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
-#EXTINF:-1 group-title="생방송",롯데홈쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="롯데홈쇼핑.kr" tvg-name="롯데홈쇼핑",롯데홈쇼핑
 http://1.214.67.38/vod/67401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1 group-title="생방송",롯데onetv
+#EXTINF:-1 group-title="생방송" tvg-id="LOTTE.OneTV.kr" tvg-name="LOTTE OneTV",LOTTE OneTV
 http://onetvhlslive.lotteimall.com/lotteonetvlive/_definst_/lotteonetvlive.mp4.m3u8
-#EXTINF:-1 group-title="생방송",신세계쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="신세계쇼핑.kr" tvg-name="신세계쇼핑",신세계쇼핑
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-#EXTINF:-1 group-title="생방송",홈앤쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="홈&쇼핑.kr" tvg-name="홈&쇼핑",홈&쇼핑
 https://s30.qtcdn.co.kr/media/liveM3U8/idx/484074138/enc/1790577012/playlist.m3u8
-#EXTINF:-1 group-title="생방송",W쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="W쇼핑.kr" tvg-name="W쇼핑",W쇼핑
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-#EXTINF:-1 group-title="생방송",쇼핑엔티
+#EXTINF:-1 group-title="생방송" tvg-id="쇼핑엔티.kr" tvg-name="쇼핑엔티",쇼핑엔티
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_519_3CA51C10.m3u8
-#EXTINF:-1 group-title="생방송",공영쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="공영쇼핑.kr" tvg-name="공영쇼핑",공영쇼핑
 https://etv.publichs.com/live5.stream/playlist.m3u8
-#EXTINF:-1 group-title="생방송",sk스토아
+#EXTINF:-1 group-title="생방송" tvg-id="SK.stoa.kr" tvg-name="SK stoa",SK stoa
 http://castcache2.skstoa.com:8080/2001.stream/tsmux.noll_master.m3u8
 #EXTINF:-1 group-title="생방송",QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="생방송",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 group-title="생방송",NS 홈쇼핑
+#EXTINF:-1 group-title="생방송" tvg-id="NS홈쇼핑.kr" tvg-name="NS홈쇼핑",NS홈쇼핑
 http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 #EXTINF:-1 group-title="정주행채널",mbc 아메리카
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_236_0B21695E.m3u8
-#EXTINF:-1 group-title="정주행채널",MBC에브리원
+#EXTINF:-1 group-title="정주행채널" tvg-id="MBC.Every1.kr" tvg-name="MBC Every1",MBC Every1
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
 #EXTINF:-1 group-title="정주행채널",한국영화
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
 #EXTINF:-1 group-title="정주행채널",인기영화
 https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
-#EXTINF:-1 group-title="정주행채널",실버아이TV
+#EXTINF:-1 group-title="정주행채널" tvg-id="실버아이TV.kr" tvg-name="실버아이TV",실버아이TV
 http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
-#EXTINF:-1 group-title="정주행채널",KFN
+#EXTINF:-1 group-title="정주행채널" tvg-id="국방TV.kr" tvg-name="국방TV",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/chunklist_w2128752943.m3u8
 #EXTINF:-1 group-title="정주행채널",한국영화
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
@@ -625,7 +625,7 @@ https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod10.m3u8?Expires=1757374054&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NzM3NDA1NH19fV19&Signature=IIls1h8FQVUVtOIseVYjQaESEBwIpgvGEEcFdZOa5vnlCZPzA3FGw79zUVksUPyqE-OdmKJGtF8KLdX0I7Ww8lELhSXcJ6sdWD54FA7ebj2-oijVXVodjdlF2noBHlTIDJdJJaGDq8imzByqtEmNKs-PoRqcnGaLpwALekxBmR~6TKVBunSbv8LlIdbBksvUPJf04zX0tUw-JynkVJaRZWWqqUkcO2zXQWR4aoD5Yvm0I3cDMCUdSEqkxJ9ZDaacTjnl8wIkCs72UVqeBeqEiUO4VZKn7hNxCHBHsbcZ-gj42kn0nDk2b8JJ1TygU-JZC2xgVce6nHBN2hALIlIuzg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 group-title="정주행채널",베베핀
 https://51b80d278dd84f5da8da8832f26a6e47.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qdes3yq6z566m/67bdceb4-7cbc-46d5-8d3c-dfa3fc93b48a/0.m3u8
-#EXTINF:-1 group-title="정주행채널",뽀요티비
+#EXTINF:-1 group-title="정주행채널" tvg-id="뽀요TV.kr" tvg-name="뽀요TV",뽀요TV
 https://c9f573a52b2044e9aeb263646dcdaaf5.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i91aqem27nh0w/8e4860ce-531e-497c-b50e-79517e000efe/1.m3u8
 #EXTINF:-1 group-title="정주행채널",코코비티비
 https://3226c0360554432fb870bb14c7a633ed.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bzo6omdamy3gm/f3b5800d-1000-426a-8136-44831115b35c/0.m3u8
