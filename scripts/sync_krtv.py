@@ -27,10 +27,14 @@ def extract(text):
         if not match or match.group(1) not in GROUPS:
             return
         urls = [line for line in block[1:] if line and not line.startswith("#")]
-        if len(urls) != 1 or not re.match(r"^[A-Za-z][A-Za-z0-9+.-]*://\S+$", urls[0]):
+        if not urls or any(not re.match(r"^[A-Za-z][A-Za-z0-9+.-]*://\S+$", url) for url in urls):
             raise ValueError("Selected channel has a missing or invalid stream URL")
         block[0] = re.sub(r'\bgroup-title\s*=\s*"[^"]*"', 'group-title="한국생방송"', block[0])
-        selected.append("\n".join(block).rstrip())
+        # Upstream may list multiple alternative streams under one EXTINF.
+        # Keep each valid URL as a separate, well-formed playlist entry.
+        options = [line for line in block[1:] if line.startswith("#")]
+        for url in urls:
+            selected.append("\n".join([block[0], *options, url]).rstrip())
 
     for line in lines[1:]:
         line = line.strip()
